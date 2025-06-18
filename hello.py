@@ -4,3 +4,4 @@ print('Hello World')
 a=1
 b=2
 print(a+b)
+print(5+5)
